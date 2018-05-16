@@ -1,3 +1,5 @@
+<script src="vendor/react.js"></script>
+
 class ProductList extends React.Component {
   render() {
     return (
