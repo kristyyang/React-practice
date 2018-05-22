@@ -7,6 +7,7 @@ class Home extends Component {
     render() {
         return (
             <div>
+                <Navbar/>
                 <h2>Welcome</h2>
                 <p>Let's face it: We, the internet-using public, are constantly bombarded with prompts to sign up for
                     and subscribe to all sorts of email communications. So as a brand, when someone takes the time to
