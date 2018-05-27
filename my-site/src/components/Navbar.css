@@ -1,4 +1,13 @@
 
-body {
-    padding-top: 70px
+/*body {*/
+    /*padding-top: 70px*/
+/*}*/
+
+.navbar-brand{
+    color: #333;
+}
+
+a {
+    color: #aaa;
+    front-weight: 200;
 }
